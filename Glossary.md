@@ -10,7 +10,7 @@
 
 **Asynchronous Local Procedure Call** A form of local IPC on windows that allows the transfer of data between user mode processes and from a kernel mode service to user mode clients. Originally Windows NT implemented IPC via the **[Local Procedure Cal**l](#bookmark=id.lkmqhn2ki1w) or LPC. The LPC api in modern versions of Windows is a wrapper around ALPC
 
-**Automatic Crash Dump**  A new form of [crash dump](#bookmark=id.p4sf9fsxrnym) in Windows 8 and Windows 2012 ([Technet](http://blogs.technet.com/b/askcore/archive/2012/09/12/windows-8-and-windows-server-2012-automatic-memory-dump.aspx))
+**Automatic Crash Dump**  A new form of [crash dump](Insert Link to ALPC) in Windows 8 and Windows 2012 ([Technet](http://blogs.technet.com/b/askcore/archive/2012/09/12/windows-8-and-windows-server-2012-automatic-memory-dump.aspx))
 
 **AWE - **Address Windowing Extension (Allows 32bit apps to allocate up to 64GB of physical memory and map it to a 2GB virtual address space)
 
